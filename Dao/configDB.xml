@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database port="5432">
+    <className>org.postgresql.Driver</className>
+    <user>postgres</user>
+    <password>mdpProm15</password>
+    <dbName>dao</dbName>
+    <projectPath>/home/toavina/IdeaProjects/Dao</projectPath>
+</database>
